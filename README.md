@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kimleangnao
+- 👋 Hi, I’m Kimleang Nao.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Javascript + mongodb.
+- 🌱 I’m currently looking for a job in the Front-End Dev.
 - 💞️ I’m looking to collaborate on anything relate to JavaScript.
 - 📫 How to reach me: Kimleangn@gmail.com
 
